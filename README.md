@@ -43,8 +43,7 @@ This project:
 | 📊 **EDA Visualizations** | Plots for 10 key questions (ratings, sentiment, keywords, etc.) |
 | 🤖 **Sentiment Models** | TF-IDF + Logistic Regression & SBERT + XGBoost |
 | 🧩 **Interactive Dashboard** | `app.py` (Streamlit app for insights & live predictions) |
-| 📈 **Model Performance Report** | `model_performance_report.csv` |
-| 📦 **Deployment Files** | `deliverables.zip` (contains all outputs & models) |
+
 
 ---
 
